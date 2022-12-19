@@ -5,13 +5,11 @@
 I'm a software engineer from Kosovo. 🇽🇰
 
 
-I have been building APIs and tools for E-Commerce & CRM and CMS in United States and Europe, with different teams and organizations. 🌎
+As a senior software engineer with over 5 years of experience in the industry, I have a strong foundation in computer science principles and a passion for developing high-quality, scalable, and maintainable software. My expertise lies in Python, and I have a track record of delivering successful projects in this language.
 
+In my past & current role, I have led the development of several complex systems and have consistently demonstrated my ability to write clean, efficient code. I also have experience with agile development methodologies and have a proven track record of working effectively in a team environment.
 
-I like to build things with Django/FastAPI, SQL/NoSQL databases and Docker.
-
-
-I'm currently dedicating a high percentage of my time to my current full-time job. At the same time, I'm also trying to help the open-source community.
+In addition to my technical skills, I am a strong communicator and thrive in collaborative environments. I am always looking to learn and grow, and am excited to take on new challenges and expand my knowledge and skills.
 
 
 You can find me on:
