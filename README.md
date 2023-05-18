@@ -7,7 +7,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godd0t&langs_count=5&layout=compact&theme=nord&repo=django-docker-quickstart)](https://github.com/godd0t/django-docker-quickstart)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godd0t&langs_count=5&layout=compact&theme=dracula&repo=django-docker-quickstart)](https://github.com/godd0t/django-docker-quickstart)
 
 I'm a software engineer from Kosovo. 🇽🇰
 
