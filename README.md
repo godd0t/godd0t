@@ -10,9 +10,6 @@ In my past & current role, I have led the development of several complex systems
 
 In addition to my technical skills, I am a strong communicator and thrive in collaborative environments. I am always looking to learn and grow, and am excited to take on new challenges and expand my knowledge and skills.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godd0t&langs_count=5&layout=compact&theme=dracula&repo=django-docker-quickstart)](https://github.com/godd0t/django-docker-quickstart)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=godd0t)](https://github.com/anuraghazra/github-readme-stats)
 
 You can find me on:
 
