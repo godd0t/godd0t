@@ -1,17 +1,12 @@
-### Hey! I'm [@godd0t] (Lirim Shala) 👋
+### Hello, World! 👋 I'm [Lirim Shala (@godd0t)](https://github.com/godd0t)
 
+I'm a seasoned Software Engineer hailing from the heart of Kosovo 🇽🇰. With over half a decade's experience in the tech industry, I pride myself on my sturdy foundation in computer science and unwavering commitment to delivering high-quality, scalable, and maintainable software.
 
-I'm a software engineer from Kosovo. 🇽🇰
+My specialty lies in the realm of Python development, with a proven record of delivering successful projects. In both past and present roles, I've been at the forefront of developing intricate systems, consistently showcasing my ability to create clean, efficient, and robust code. My experience spans agile development methodologies, always thriving in dynamic, team-centric environments.
 
+But I'm more than just code! As an adept communicator, I believe in the power of collaboration to drive innovation. A lifelong learner, I am perpetually eager to broaden my horizons, embrace new challenges, and expand my technical acumen.
 
-As a senior software engineer with over 5 years of experience in the industry, I have a strong foundation in computer science principles and a passion for developing high-quality, scalable, and maintainable software. My expertise lies in Python, and I have a track record of delivering successful projects in this language.
+To learn more about me or get in touch:
 
-In my past & current role, I have led the development of several complex systems and have consistently demonstrated my ability to write clean, efficient code. I also have experience with agile development methodologies and have a proven track record of working effectively in a team environment.
-
-In addition to my technical skills, I am a strong communicator and thrive in collaborative environments. I am always looking to learn and grow, and am excited to take on new challenges and expand my knowledge and skills.
-
-
-You can find me on:
-
-* [LinkedIn](https://www.linkedin.com/in/lirim-shala/)
-* [Medium](https://medium.com/@lirshala01)
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/lirim-shala/)
+* Follow my thoughts on [Medium](https://medium.com/@lirshala01)
