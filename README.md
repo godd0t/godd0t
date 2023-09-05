@@ -1,4 +1,4 @@
-### Hello, World! 👋 I'm [Lirim Shala (@godd0t)](https://github.com/godd0t)
+### Hello, World! 👋 I'm [Lir Shala (@godd0t)](https://github.com/godd0t)
 
 I'm a seasoned Software Engineer hailing from the heart of Kosovo 🇽🇰. With over half a decade's experience in the tech industry, I pride myself on my sturdy foundation in computer science and unwavering commitment to delivering high-quality, scalable, and maintainable software.
 
