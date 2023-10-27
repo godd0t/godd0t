@@ -1,12 +1,13 @@
-### Hello, World! 👋 I'm [Lir Shala (@godd0t)](https://github.com/godd0t)
+### Hi there, I'm Lir Shala, aka godd0t 🙌
 
-I'm a seasoned Software Engineer hailing from the heart of Kosovo 🇽🇰. With over half a decade's experience in the tech industry, I pride myself on my sturdy foundation in computer science and unwavering commitment to delivering high-quality, scalable, and maintainable software.
+I'm a software engineer extraordinaire from the beautiful land of Kosovo 🇽🇰. I have more than 5 years of experience in the tech industry, working on various projects that showcase my skills and creativity. I have a solid foundation in computer science and a passion for developing software that is high-quality, scalable, and maintainable.
 
-My specialty lies in the realm of Python development, with a proven record of delivering successful projects. In both past and present roles, I've been at the forefront of developing intricate systems, consistently showcasing my ability to create clean, efficient, and robust code. My experience spans agile development methodologies, always thriving in dynamic, team-centric environments.
+Python is my weapon of choice, where I have mastered the art of writing clean, efficient, and robust code that adheres to the best practices and standards. I have built web applications, data analysis tools, and more using Python and its rich ecosystem of libraries and frameworks. I'm also proficient in agile development methodologies and love working in dynamic, team-based environments.
 
-But I'm more than just code! As an adept communicator, I believe in the power of collaboration to drive innovation. A lifelong learner, I am perpetually eager to broaden my horizons, embrace new challenges, and expand my technical acumen.
+But I'm not just a software engineer! I'm also a curious learner, an avid reader, and a friendly communicator. I value collaboration and innovation as the keys to success in any project. I'm always open to learning new things, taking on new challenges, and improving my technical skills.
 
-To learn more about me or get in touch:
+If you're curious about me or want to get in touch, feel free to:
 
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/lirim-shala/)
 * Follow my thoughts on [Medium](https://medium.com/@lirshala01)
+* Check out my [Stack Overflow](https://stackoverflow.com/users/13935231/godd0t) profile
