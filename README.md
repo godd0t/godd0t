@@ -9,5 +9,5 @@ But I'm not just a software engineer! I'm also a curious learner, an avid reader
 If you're curious about me or want to get in touch, feel free to:
 
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/lirim-shala/)
-* Follow my thoughts on [Medium](https://medium.com/@lirshala01)
+* Follow my thoughts on [Medium](https://medium.com/@godd0t)
 * Check out my [Stack Overflow](https://stackoverflow.com/users/13935231/godd0t) profile
